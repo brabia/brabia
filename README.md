@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**brabia/brabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working at NetApp as Professional Services for Data Management and Cloud Engineer, based in Paris with solid expertise in the field of DevOps and cloud architecture, I design robust and scalable data architectures based into my clients specific needs. I ensure data integrity, quality and security, using recognized industry methodologies and standards.
 
-Here are some ideas to get you started:
+Expertise in GCP and AWS and Azure, CI/CD pipelines implementing, creating a robust monitoring systems to enhance operational efficiency. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I welcome the opportunity to add value to your organization.
+
+##### Contact
+* bassem.rabia@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/rbassem/)
+
+##### Quote
+> Opportunities don't happen, you create them.
